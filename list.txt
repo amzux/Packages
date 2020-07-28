@@ -1,0 +1,7 @@
+Amzkill.Amzx => Amzkill is Python scapy module which kill wifi connected users
+Amzy.Amzx => Amzy is Amzux Package Manager
+console.Amzx => Amzux shell with lot of functions for lazy devs:)
+console-extra.Amzx =>
+cron-G.Amzx => cron manager
+Fastscan.Amzx => scan connected users to your network
+link-finder.Amzx => scartches links from site
