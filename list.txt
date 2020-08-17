@@ -5,3 +5,4 @@ console-extra.Amzx =>
 cron-G.Amzx => cron manager
 Fastscan.Amzx => scan connected users to your network
 link-finder.Amzx => scartches links from site
+bluetooth.Amzx => send audio to bluetooth device
