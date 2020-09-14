@@ -1,8 +1,10 @@
 Amzkill.Amzx => Amzkill is Python scapy module which kill wifi connected users
 Amzy.Amzx => Amzy is Amzux Package Manager
+Amzy-GUI.Amzx => GUI of Amzy for installing local files & server files[limited],best for local files installing
+bluetooth.Amzx => bluetooth module for bluetooth speacker
 console.Amzx => Amzux shell with lot of functions for lazy devs:)
 console-extra.Amzx =>
 cron-G.Amzx => cron manager
 Fastscan.Amzx => scan connected users to your network
 link-finder.Amzx => scartches links from site
-bluetooth.Amzx => send audio to bluetooth device
+list.Amzx =>
