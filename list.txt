@@ -16,6 +16,8 @@ cron-G.Amzx => cron manager
 ----------------------------------------------
 Fastscan.Amzx => scan connected users to your network
 ----------------------------------------------
+fish-shell.Amzx => Fish shell
+----------------------------------------------
 link-finder.Amzx => scartches links from site
 ----------------------------------------------
 list.Amzx =>
