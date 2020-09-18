@@ -20,5 +20,5 @@ fish-shell.Amzx => Fish shell
 ----------------------------------------------
 link-finder.Amzx => scartches links from site
 ----------------------------------------------
-list.Amzx =>
+touch.Amzx => it will enable touchpad clicks
 ----------------------------------------------
