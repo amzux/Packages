@@ -1,5 +1,7 @@
 Amzkill.Amzx => Amzkill is Python scapy module which kill wifi connected users
 ----------------------------------------------
+Amzxedit.Amzx => Advance Text Editor
+----------------------------------------------
 Amzx-Manager.Amzx => Advance Amzx file Manager
 ----------------------------------------------
 Amzy.Amzx => Amzy is Amzux Package Manager
